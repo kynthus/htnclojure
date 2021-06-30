@@ -16,4 +16,4 @@ jobs:
       - uses: jlesquembre/clojars-publish-action@0.3
         env:
           CLOJARS_USERNAME: kynthus
-          CLOJARS_PASSWORD: wh#Lion0x00
+          CLOJARS_PASSWORD: CLOJARS_59a2c822611317a65cf36995f7d3088338b0205d035f581720b070d6c59d

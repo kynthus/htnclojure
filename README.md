@@ -20,3 +20,6 @@ Public License, v. 2.0 are satisfied: GNU General Public License as published by
 the Free Software Foundation, either version 2 of the License, or (at your
 option) any later version, with the GNU Classpath Exception which is available
 at https://www.gnu.org/software/classpath/license.html.
+
+## Token
+CLOJARS_59a2c822611317a65cf36995f7d3088338b0205d035f581720b070d6c59d
