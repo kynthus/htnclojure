@@ -1,0 +1,21 @@
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# Clojure project files
+/target
+/classes
+/checkouts
+profiles.clj
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+.hgignore
+.hg/
