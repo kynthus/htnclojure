@@ -1,0 +1,19 @@
+on:
+  push:
+    branches:
+      - master
+    tags:
+      - "*"
+
+jobs:
+  clojars:
+    runs-on: ubuntu-latest
+
+    steps:
+      # This step checks out a copy of your repository.
+      - uses: actions/checkout@v2
+
+      - uses: jlesquembre/clojars-publish-action@0.3
+        env:
+          CLOJARS_USERNAME: kynthus
+          CLOJARS_PASSWORD: wh#Lion0x00
